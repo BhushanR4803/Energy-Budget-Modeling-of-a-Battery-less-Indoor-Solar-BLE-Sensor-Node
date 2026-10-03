@@ -1,0 +1,24 @@
+Base case: margin 4.32 J | first wake 6.2 h | dark survival 23.2 h
+
+Panel output (base 0.02):
+  x0.5   margin  +0.61 J | first wake        30.1 h | dark survival   23.1 h
+  x0.75  margin  +2.13 J | first wake         8.9 h | dark survival   23.1 h
+  x1.0   margin  +4.32 J | first wake         6.2 h | dark survival   23.2 h
+  x1.5   margin  +8.90 J | first wake         4.2 h | dark survival   23.3 h
+  x2.0   margin +13.42 J | first wake         3.3 h | dark survival   23.5 h
+
+Sleep power (base 18.0):
+  x0.5   margin  +5.01 J | first wake         6.2 h | dark survival   33.4 h
+  x0.75  margin  +4.67 J | first wake         6.2 h | dark survival   27.3 h
+  x1.0   margin  +4.32 J | first wake         6.2 h | dark survival   23.2 h
+  x1.5   margin  +3.64 J | first wake         6.2 h | dark survival   17.9 h
+  x2.0   margin  +2.95 J | first wake         6.2 h | dark survival   14.6 h
+
+Wake energy (base 0.25):
+  x0.5   margin  +4.95 J | first wake         6.2 h | dark survival   25.5 h
+  x0.75  margin  +4.62 J | first wake         6.2 h | dark survival   24.3 h
+  x1.0   margin  +4.32 J | first wake         6.2 h | dark survival   23.2 h
+  x1.5   margin  +3.76 J | first wake         6.2 h | dark survival   21.4 h
+  x2.0   margin  +3.26 J | first wake         6.2 h | dark survival   20.0 h
+
+Combined worst case (panel x0.5, sleep x2, wake x1.5): margin +0.52 J | first wake 30.1 h | dark survival 13.7 h

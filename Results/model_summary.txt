@@ -1,0 +1,10 @@
+Panel 38.5 cm2 -> ~346 uW at 500 lux (before PMIC)
+Wake energy 0.25 mJ, sleep 18.0 uW
+First wake from empty cap (Mon 00:00 start, lights on 08:00): 14.5 h after start (= 6.5 h after lights on)
+Wednesday: 5194 readings sent; harvested 8.5 J, consumed 4.1 J
+Weekend: node shuts off at hour 137 (= 23 h after Friday 18:00 lights-off)
+Back online Monday at hour 178.5 (Mon 08:00 = hour 168)
+Total offline time over the 8 days incl. initial charge: 56 h of 192 h
+Usable energy, 4.2 V -> 2.2 V: 3.01 J
+First wake from empty (h) by cap [0.1, 0.22, 0.47, 1.0]: Office (~400 lux): [np.float64(1.5), np.float64(3.1), np.float64(6.2), np.float64(30.3)]; Dim home (~130 lux midday): [np.float64(4.6), np.float64(12.5), np.float64(38.1), None]
+Dark survival (h) by cap [0.1, 0.22, 0.47, 1.0]: Fixed 10 s: [3.5, 7.4, 14.8, 27.5]; Fixed 60 s: [6.4, 13.2, 25.0, 43.0]; Adaptive: [5.8, 12.1, 23.2, 40.7]
