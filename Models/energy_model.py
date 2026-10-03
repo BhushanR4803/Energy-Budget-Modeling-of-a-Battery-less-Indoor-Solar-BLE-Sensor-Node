@@ -227,7 +227,7 @@ def fig_week(p, path, summary):
                        f"(= {h_off - (4 * 24 + 18):.0f} h after Friday 18:00 lights-off)")
         if j is not None:
             summary.append(f"Back online Monday at hour {(fri_end + i0 + j) * dt / 3600:.1f} "
-                           f"(Mon 08:00 = hour 168)")
+                           f"(Mon 08:00 = hour 176)")
     summary.append(f"Total offline time over the 8 days incl. initial charge: {off_h:.0f} h of {days * 24} h")
     summary.append(f"Usable energy, 4.2 V -> 2.2 V: {0.5 * p.cap_F * (p.v_max ** 2 - p.v_cutoff ** 2):.2f} J")
 
