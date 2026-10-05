@@ -52,4 +52,12 @@ All component figures (panel output, sleep power, wake energy, ESR) are datashee
 
 Build it, measure the real panel output at the target light levels, and write the nRF52840 firmware.
 
+## Team
+Presented at AVISHKAR 2026 (SPPU) by:
+- Bhushan Rane ([GitHub](https://github.com/BhushanR4803) · [LinkedIn](https://www.linkedin.com/in/bhushan-rane-b13177371?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+- Sakshi Vispute ([GitHub](https://github.com/Sakshi-vispute33) · [LinkedIn](https://www.linkedin.com/in/sakshi-vispute-264681274?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+- Gargi Kudal ([GitHub](https://github.com/GargiK22) · [LinkedIn](https://www.linkedin.com/in/gargi-kudal-0b39aa28a?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+ 
 Author: Bhushan Rane
+Co-authored-by: Sakshi Vispute 
+Co-authored-by: Gargi Kudal 
